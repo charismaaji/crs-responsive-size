@@ -16,7 +16,7 @@ import {responsiveWidth, responsiveHeight} from 'crs-responsive-size'
 </View>
 ```
 
-But if you want to create square, you need use same width or height. Here's for example
+But if you want to create square, you need use same width or height. Because it based on your width or height device. Here's for example
 
 ```JS
 <View style={{width:responsiveWidth(200), height:responsiveWidth(200)}}>

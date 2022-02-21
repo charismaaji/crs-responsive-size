@@ -1,6 +1,6 @@
 {
   "name": "crs-responsive-size",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is responsive size for React Native. It's very simple to use for responsive size width and height.",
   "main": "index.js",
   "scripts": {
