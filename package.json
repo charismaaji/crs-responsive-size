@@ -1,0 +1,26 @@
+{
+  "name": "crs-responsive-size",
+  "version": "1.0.0",
+  "description": "This is responsive size for React Native. It's very simple to use for responsive size width and height.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charismaaji/crs-responsive-size.git"
+  },
+  "keywords": [
+    "responsive",
+    "react-native",
+    "responsive-width",
+    "responsive-height",
+    "mobile-responsive"
+  ],
+  "author": "charismaaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charismaaji/crs-responsive-size/issues"
+  },
+  "homepage": "https://github.com/charismaaji/crs-responsive-size#readme"
+}
